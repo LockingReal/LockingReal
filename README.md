@@ -4,7 +4,7 @@
             src="https://img.shields.io/github/stars/LockingReal?affiliations=OWNER&color=%23ffe411&label=github%20stars&logo=github&logoColor=%23fffFF&style=flat" />
     </a>
 <h1 align="center">Hi 👋, I'm LockingReal</h1>
-<h3 align="center">A passionate fullstack developer from China</h3>
+<h3 align="center">A (passionate fullstack / JavaScript) developer from China</h3>
 <summary>There is only one true heroism in the world: to see the world as it is, and to love it.” ——Romain Rolland "Michelangelo"</summary>
 
 
