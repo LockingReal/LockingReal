@@ -29,7 +29,7 @@
             alt="webpack" width="40" height="40" /> </a></p>
 
 <div align="center" dir="auto">
-<a href="https://github.com/SP-XD">
+<a href="https://github.com/LockingReal">
 <img src="https://raw.githubusercontent.com/LockingReal/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%" style="max-width: 100%;">
 <img src="https://raw.githubusercontent.com/LockingReal/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%" style="max-width: 100%;">
 <img src="https://raw.githubusercontent.com/LockingReal/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%" style="max-width: 100%;">
@@ -57,11 +57,6 @@
               <rect x="9" y="2" width="3" height="12" rx="1"></rect>
             </svg>
           </button>
-          <a data-target="animated-image.openButton" aria-label="Open dino_rounded.gif?raw=true in new window" class="AnimatedImagePlayer-button" href="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" target="_blank">
-            <svg aria-hidden="true" class="octicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-              <path fill-rule="evenodd" d="M10.604 1h4.146a.25.25 0 01.25.25v4.146a.25.25 0 01-.427.177L13.03 4.03 9.28 7.78a.75.75 0 01-1.06-1.06l3.75-3.75-1.543-1.543A.25.25 0 0110.604 1zM3.75 2A1.75 1.75 0 002 3.75v8.5c0 .966.784 1.75 1.75 1.75h8.5A1.75 1.75 0 0014 12.25v-3.5a.75.75 0 00-1.5 0v3.5a.25.25 0 01-.25.25h-8.5a.25.25 0 01-.25-.25v-8.5a.25.25 0 01.25-.25h3.5a.75.75 0 000-1.5h-3.5z"></path>
-            </svg>
-          </a>
         </span>
       </span></animated-image><br>
 <animated-image data-catalyst="" style="width: 40%;"><a target="_blank" rel="noopener noreferrer" href="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true" data-target="animated-image.originalLink"><img src="https://github.com/SP-XD/SP-XD/raw/main/images/this_page_is.gif?raw=true" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
