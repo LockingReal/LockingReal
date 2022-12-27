@@ -45,13 +45,13 @@
 ![](https://raw.githubusercontent.com/LockingReal/github-stats-transparent/output/generated/overview.svg)
 ![](https://raw.githubusercontent.com/LockingReal/github-stats-transparent/output/generated/languages.svg)
 
+        
+<hr/>
 
 ### 🎧 Playing
 
 ![LockingReal-github-profile](/images/default.svg)
 <!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=g9mmploi6sdrg6sk0xosqex2u&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile) -->
-    
- <hr/>
 <p dir="auto"><animated-image data-catalyst="" style="width: 75%;"><a target="_blank" rel="noopener noreferrer" href="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" data-target="animated-image.originalLink"><img src="https://github.com/SP-XD/SP-XD/raw/main/images/dino_rounded.gif?raw=true" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
       <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
         <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" target="_blank">
