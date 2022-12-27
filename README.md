@@ -1,3 +1,4 @@
+![](https://visitor-badge.glitch.me/badge?page_id=LockingReal.readme)
 
 <h1 align="center">Hi 👋, I'm LockingReal</h1>
 <h3 align="center">A passionate fullstack developer from China</h3>
@@ -29,11 +30,11 @@
             alt="webpack" width="40" height="40" /> </a></p>
 
 <div align="center" dir="auto">
-<a href="https://github.com/LockingReal">
+<!-- <a href="https://github.com/LockingReal">
 <img src="https://raw.githubusercontent.com/LockingReal/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%" style="max-width: 100%;">
 <img src="https://raw.githubusercontent.com/LockingReal/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%" style="max-width: 100%;">
 <img src="https://raw.githubusercontent.com/LockingReal/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%" style="max-width: 100%;">
-</a>
+</a> -->
 <hr>
 <p dir="auto"><animated-image data-catalyst="" style="width: 75%;"><a target="_blank" rel="noopener noreferrer" href="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" data-target="animated-image.originalLink"><img src="https://github.com/SP-XD/SP-XD/raw/main/images/dino_rounded.gif?raw=true" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
       <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
