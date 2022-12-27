@@ -35,11 +35,6 @@
             alt="webpack" width="40" height="40" /> </a></p>
 
 <div align="center" dir="auto">
-<!-- <a href="https://github.com/LockingReal">
-<img src="https://raw.githubusercontent.com/LockingReal/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%" style="max-width: 100%;">
-<img src="https://raw.githubusercontent.com/LockingReal/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%" style="max-width: 100%;">
-<img src="https://raw.githubusercontent.com/LockingReal/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%" style="max-width: 100%;">
-</a> -->
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=LockingReal&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
