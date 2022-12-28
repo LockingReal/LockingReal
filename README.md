@@ -5,7 +5,12 @@
     </a>
 <h1 align="center">Hi 👋, I'm LockingReal</h1>
 <h3 align="center">A (passionate fullstack / JavaScript) developer from China</h3>
-<summary>There is only one true heroism in the world: to see the world as it is, and to love it.” ——Romain Rolland "Michelangelo"</summary>
+
+🔭 I’m currently working on spreadsheet.
+🌱 I'm now consolidating the JavaScript foundation at a deeper level.
+📫 Mail to: 1191515088@qq.com.
+🏠 hometown: Xuzhou, Jiangsu.
+📕 Favorite sentence: There is only one true heroism in the world: to see the world as it is, and to love it.” ——Romain Rolland "Michelangelo"
 
 
 <h3 align="left">Languages and Tools:</h3>
