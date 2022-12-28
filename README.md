@@ -6,14 +6,6 @@
 <h1 align="center">Hi 👋, I'm LockingReal</h1>
 <h3 align="center">A (passionate fullstack / JavaScript) developer from China</h3>
 
-<div>🔭 I’m currently working on spreadsheet.</div>
-<div>🌱 I'm now consolidating the JavaScript foundation at a deeper level.</div>
-<div>📫 Mail to: 1191515088@qq.com.</div>
-<div>🏠 hometown: Xuzhou, Jiangsu.</div>
-<div>📕 Favorite sentence: There is only one true heroism in the world: to see the world as it is, and to love it.” ——Romain Rolland "Michelangelo"</div>
-
-
-<h3 align="left">Languages and Tools:</h3>
 <p align="left">       <a href="https://www.java.com" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
             width="40" height="40" /> </a>
@@ -38,6 +30,13 @@
             alt="vuejs" width="40" height="40" /> </a> <a href="https://webpack.js.org" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg"
             alt="webpack" width="40" height="40" /> </a></p>
+
+<div>🔭 I’m currently working on spreadsheet.</div>
+<div>🌱 I'm now consolidating the JavaScript foundation at a deeper level.</div>
+<div>📫 Mail to: 1191515088@qq.com.</div>
+<div>🏠 hometown: Xuzhou, Jiangsu.</div>
+<div>📕 Favorite sentence: There is only one true heroism in the world: to see the world as it is, and to love it.” ——Romain Rolland "Michelangelo"</div>
+
 
 <div align="center" dir="auto">
 
