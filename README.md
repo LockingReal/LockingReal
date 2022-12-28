@@ -5,10 +5,6 @@
     </a>
 <h1 align="center">Hi 👋, I'm LockingReal</h1>
 <h3 align="center">A (passionate fullstack / JavaScript) developer from China</h3>
-![Github Stats](https://github-readme-stats.vercel.app/api?username=LockingReal&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-<div align="center">  
-  <img  src="https://github-readme-streak-stats.herokuapp.com?user=LockingReal&theme=onedark&date_format=M%20j%5B%2C%20Y%5D" />
-</div>
 
 <p align="left">       <a href="https://www.java.com" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
@@ -35,15 +31,19 @@
             src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg"
             alt="webpack" width="40" height="40" /> </a></p>
 
-<div>🔭 I’m currently working on spreadsheet.</div>
-<div>🌱 I'm now consolidating the JavaScript foundation at a deeper level.</div>
-<div>📫 Mail to: 1191515088@qq.com.</div>
-<div>🏠 hometown: Xuzhou, Jiangsu.</div>
-<div>📕 Favorite sentence: There is only one true heroism in the world: to see the world as it is, and to love it.” ——Romain Rolland "Michelangelo"</div>
+<div style="margin-bottom:4px">🔭 I’m currently working on spreadsheet.</div>
+<div style="margin-bottom:4px">🌱 I'm now consolidating the JavaScript foundation at a deeper level.</div>
+<div style="margin-bottom:4px">📫 Mail to: 1191515088@qq.com.</div>
+<div style="margin-bottom:4px">🏠 hometown: Xuzhou, Jiangsu.</div>
+<div style="margin-bottom:8px">📕 Favorite sentence: There is only one true heroism in the world: to see the world as it is, and to love it.” ——Romain Rolland "Michelangelo"</div>
 
 
 <div align="center" dir="auto">
 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=LockingReal&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+<div align="center">  
+  <img  src="https://github-readme-streak-stats.herokuapp.com?user=LockingReal&theme=onedark&date_format=M%20j%5B%2C%20Y%5D" />
+</div>
 
         
 <hr/>
