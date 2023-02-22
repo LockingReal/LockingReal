@@ -44,7 +44,7 @@
 <hr/>
 <div align="center" dir="auto">
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LockingReal&layout=compact&theme=material-palenight" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LockingReal&layout=compact&theme=material-palenight" style="width:450px;height:195px"/>
 <!--   <img  src="https://github-readme-streak-stats.herokuapp.com?user=LockingReal&theme=onedark&date_format=M%20j%5B%2C%20Y%5D" /> -->
 </div>
     
