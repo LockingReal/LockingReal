@@ -36,15 +36,16 @@
 <div style="margin-bottom:4px">📫 Mail to: 1191515088@qq.com.</div>
 <div style="margin-bottom:4px">🏠 hometown: Xuzhou, Jiangsu.</div>
 <div style="margin-bottom:8px">📕 Favorite sentence: There is only one true heroism in the world: to see the world as it is, and to love it.” ——Romain Rolland "Michelangelo"</div>
-<div align="center" dir="auto" style='margin-top:30px'>
+<!-- <div align="center" dir="auto" style='margin-top:30px'>
       <div>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LockingReal&layout=compact&theme=material-palenight" />
       </div>
-</div>
+</div> -->
 <hr/>
 <div align="center" dir="auto">
-<div align="center">  
-  <img  src="https://github-readme-streak-stats.herokuapp.com?user=LockingReal&theme=onedark&date_format=M%20j%5B%2C%20Y%5D" />
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LockingReal&layout=compact&theme=material-palenight" />
+<!--   <img  src="https://github-readme-streak-stats.herokuapp.com?user=LockingReal&theme=onedark&date_format=M%20j%5B%2C%20Y%5D" /> -->
 </div>
     
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=LockingReal&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
